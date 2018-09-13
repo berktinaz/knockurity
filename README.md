@@ -7,3 +7,10 @@ Knock detection based customizable home security system implemented for FRDM-KL2
 * Protected with LDR
 * Admin Settings / New Users / Forgot Pattern
 * Control via Bluetooth
+
+## Required Packages on MBED
+
+* mbed-src
+* MODSERIAL
+* TextLCD
+* tsi-sensor
