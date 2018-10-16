@@ -3,7 +3,7 @@ Knock detection based customizable home security system implemented for FRDM-KL2
 
 * User-specific knock pattern lock
 * Distinct patterns and credential information saved
-* Selectable door bells
+* Selectable doorbells
 * Protected with LDR
 * Admin Settings / New Users / Forgot Pattern
 * Control via Bluetooth
